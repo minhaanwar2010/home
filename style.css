@@ -1,0 +1,94 @@
+.container {
+    padding: 10px;
+    margin: 10px;
+}
+.flex-text {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+.border {
+    border: 5px solid black;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 5px;
+    box-shadow: 5px 5px 5px grey;
+    width: 250px;
+}
+.user-card { 
+    background-color: lemonchiffon; 
+    border-radius: 10px;
+    display: flex;
+    margin: 5px;
+    align-items: center;
+    padding: 2px 2px;
+    
+    
+}
+.text1 {
+    color: skyblue;
+    font-size: 20px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+}
+.text2 {
+    margin: 5px;
+    color: burlywood;
+    font-size: 16px;
+}
+.btn-green {
+    background-color: green;
+    color: white;
+    margin: 5px;
+    border-radius: 5px;
+    padding: 12px 12px;
+}
+.boss {
+    background-color: purple;
+    color: white;
+    display: flex;
+    margin: 5px;
+    align-items: center;
+    padding: 20px 20px 20px 20px;
+    width: 120px;
+    gap: 10px;
+}
+.d-block {
+    display: flex;
+    flex-direction: row;
+    margin: 5px;
+    gap: 15px;
+    width: 200px;
+    height: 120px;
+    border-radius: 10px;
+}
+.carousel-item {
+    display: flex;
+}
+.btn-text {
+    color: blue;
+    display: flex;
+    align-items: center;
+    font-size: 14px;
+    margin: 5px;
+}
+.box1 {
+    color: white;
+    margin: 2px;
+    align-items: center;
+    padding: 10px 5px;
+    width: 10px;
+}
+.box2 {
+    color: white;
+    margin: 2px;
+    align-items: center;
+    padding: 5px 10px;
+    width: 10px;
+}
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
